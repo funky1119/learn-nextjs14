@@ -24,3 +24,14 @@
 - 페이지가 존재하지 않을 때
   1.  Root 위치에 not-found.tsx 컴포넌트를 생성
   2.  현재 Next 에서 설정하지 않은 경로로 접근시 not-found.tsx 파일로 접근이 된다.
+
+### 실행 방법
+
+- node 버전은 18.17.0 이상으로 설치 필요
+- npm install
+- npm run dev
+
+### 호스팅
+
+- Vercel로 배포
+- 경로: https://learn-nextjs14-eta.vercel.app/
